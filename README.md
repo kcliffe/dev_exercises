@@ -1,7 +1,7 @@
 # Dev Exercises
 
 ## Excercise One
-ex1.py contains an extract of a lambda function built in Python. As is indicated in the comments, the event which triggers it may contain multiple physical messages, and each may contain many logical messages. 
+The file ex1.py contains an extract of a lambda function built in Python. As is indicated in the comments, the event which triggers it may contain multiple physical messages, and each may contain many logical messages. 
 
 Your task is to add effective error handling. Assume that the outcome should be that an API will be invoked with the signature being something like:
 
